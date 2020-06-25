@@ -12,12 +12,12 @@ public class Main {
         Scanner inputUser = new Scanner(System.in);
         System.out.print("mengambil nilai fibonacci ke - ");
         n = inputUser.nextInt();
-        c = 0;
-        b = 1;
         a = 1;
+        b = 1;
+        c = 0;
 //        System.out.print(a);
         for (int i = 1; i <= n ; i++) {
-            System.out.println("nilai ke - "+i+" adalah "+ a);
+            System.out.println("nilai ke - "+ i +" adalah "+ a);
             a = b + c ;
             c = b ;
             b = a;
