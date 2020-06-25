@@ -5,14 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        
-//        int hasil = 0;
-//
-//        for (int i = 1; i <= 10 ; i++) {
-//            hasil += i;
-//            System.out.println("hasil dari "+i+" + "+hasil+" = "+ hasil);
-//        }
-//        System.out.println(hasil);
+
 
         //program untuk menjumlahkan angka dengan rentang
         int nilaiAwal, nilaiAkhir, total;
@@ -31,6 +24,10 @@ public class Main {
         }
 
         // tugas -> for loop, do while
+//        for ( int i = nilaiAwal ; i <= nilaiAkhir ; i++) {
+//            total = total + i;
+//            System.out.println("ditamah "+i+" menjadi "+ total);
+//        }
 
     }
 }

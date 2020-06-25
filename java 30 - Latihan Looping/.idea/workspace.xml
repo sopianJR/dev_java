@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e619b1f-eca6-4dac-9ce3-57e2de9cad1d" name="Default Changelist" comment="" />
+    <list default="true" id="1e619b1f-eca6-4dac-9ce3-57e2de9cad1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java 30 - Latihan Looping/com/tutorial/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java 30 - Latihan Looping/com/tutorial/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dkPJ6otFuSMMlxT9moWBnO2KJX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -44,21 +56,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="433" height="587" key="GridCell.Tab.0.bottom" timestamp="1592968880052">
+    <state width="433" height="587" key="GridCell.Tab.0.bottom" timestamp="1593054974992">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="433" height="587" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592968880052" />
-    <state width="433" height="587" key="GridCell.Tab.0.center" timestamp="1592968880051">
+    <state width="433" height="587" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1593054974992" />
+    <state width="433" height="587" key="GridCell.Tab.0.center" timestamp="1593054974991">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="433" height="587" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592968880051" />
-    <state width="433" height="587" key="GridCell.Tab.0.left" timestamp="1592968880051">
+    <state width="433" height="587" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1593054974991" />
+    <state width="433" height="587" key="GridCell.Tab.0.left" timestamp="1593054974991">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="433" height="587" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592968880051" />
-    <state width="433" height="587" key="GridCell.Tab.0.right" timestamp="1592968880052">
+    <state width="433" height="587" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1593054974991" />
+    <state width="433" height="587" key="GridCell.Tab.0.right" timestamp="1593054974992">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="433" height="587" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592968880052" />
+    <state width="433" height="587" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1593054974992" />
+    <state x="65" y="0" key="new project wizard" timestamp="1593054974183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1593054974183" />
   </component>
 </project>
