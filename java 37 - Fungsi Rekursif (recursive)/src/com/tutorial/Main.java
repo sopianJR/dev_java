@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // belajar recursive
         Scanner inputUser = new Scanner(System.in);
         System.out.print("masukan nilai : ");
         int nilai = inputUser.nextInt();
