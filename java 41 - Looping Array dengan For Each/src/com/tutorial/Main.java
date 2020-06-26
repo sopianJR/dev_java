@@ -25,6 +25,6 @@ public class Main {
         for ( int angka : arrayAngka){
             System.out.println("angka pada looping ini = "+ angka);
         }
-        
+
     }
 }
